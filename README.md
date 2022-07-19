@@ -7,6 +7,6 @@ The objective of the project is to put together a web-scraping project in order 
 ---
 ## Images
 
-![] (Resources/webpage1.png)
+![](Resources/webpage1.png)
 
 ---
