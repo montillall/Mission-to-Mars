@@ -9,4 +9,10 @@ The objective of the project is to put together a web-scraping project in order 
 
 ![](Resources/webpage1.png)
 
+![](Resources/webpage2.png)
+
+![](Resources/webpage3.png)
+
+![](Resources/webpage4.png)
+
 ---
